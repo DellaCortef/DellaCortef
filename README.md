@@ -9,3 +9,6 @@ An enthusiast about Data 🎲👨🏻‍💻!
 - 📚 I'm currently focused on Google Cloud Platform Certification;
 - 🗂️ All of my projects are available here
 - 📩 How to reach me  **[felipe.dellacorte@outlook.com.br](mailto:felipe.dellacorte@outlook.com.br)**
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DellaCortef&show_icons=true&locale=en&layout=compact" alt="DellaCortef" /></p>
