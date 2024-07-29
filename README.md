@@ -7,7 +7,7 @@ An enthusiast about Data 🎲👨🏻‍💻!
 - ⚙️ I have already worked as a Data Engineer;
 - 🕵️‍♂️ Super interested in Data Science;
 - 📚 I'm currently focused on Google Cloud Platform Certification;
-- 🗂️ All of my projects are available here
+- 🗂️ All of my projects are available **[(here)](https://github.com/DellaCortef?tab=repositories)**
 - 📩 How to reach me  **[felipe.dellacorte@outlook.com.br](mailto:felipe.dellacorte@outlook.com.br)**
 
 
