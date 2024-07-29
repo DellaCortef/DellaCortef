@@ -1,16 +1,11 @@
-## Hi there 👋
+# Hi, I'm Felipe Della Corte 🙋‍♂️!
 
-<!--
-**DellaCortef/DellaCortef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+An enthusiast about Data 🎲👨🏻‍💻!
+- 👨‍🎓 Industrial Engineering  **[(UFOP)](https://ufop.br)**
+- 🎓 Completed an MBA in Analytics and Artificial Intelligence; **[(FIA)](https://fia.com.br)**
+- 🎓 Completed an MBA in Trends, Innovation and Future **[(INOVA)](https://www.inovabs.com.br)**
+- ⚙️ I have already worked as a Data Engineer;
+- 🕵️‍♂️ Super interested in Data Science;
+- 📚 I'm currently focused on Google Cloud Platform Certification;
+- 🗂️ All of my projects are available here
+- 📩 How to reach me  **[felipe.dellacorte@outlook.com.br](mailto:felipe.dellacorte@outlook.com.br)**
