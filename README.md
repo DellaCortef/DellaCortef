@@ -10,5 +10,5 @@ An enthusiast about Data 🎲👨🏻‍💻!
 - 🗂️ All of my projects are available **[(here)](https://github.com/DellaCortef?tab=repositories)**
 - 📩 How to reach me  **[felipe.dellacorte@outlook.com.br](mailto:felipe.dellacorte@outlook.com.br)**
 
-
+<br><br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DellaCortef&show_icons=true&locale=en&layout=compact" alt="DellaCortef" /></p>
